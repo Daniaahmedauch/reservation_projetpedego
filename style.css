@@ -1,0 +1,75 @@
+body
+{
+	background-color: #FFFFF0;
+}
+#container
+{
+	border: ridge;
+	background-color: white;
+	width: 640px;
+	height: 1000px;
+}
+#reservation
+{
+	color:brown;
+	size:60px;
+	width: 90px;
+
+}
+#centre
+{
+	
+	
+	
+	display: inline-block;
+	/*text-align: center;*/
+	margin-right: 250px;
+
+}
+
+#bouton
+{
+	border: ridge;
+	border-color: black;
+    height: 60px;
+    width: 100px;
+    background-color: #D2691E;
+	color:black;
+}
+mark
+{
+	color: brown;
+}
+#msg
+{
+	width: 400px; 
+	height: 300px;
+	border:ridge;
+	border-color: black;
+}
+#condition
+{
+	margin-left: 1000px;
+	text-align: center;
+
+}
+#uname
+{
+	border: ridge;
+	border-color: black;
+	width: 300px;
+	height: 30px;
+}
+#liste
+{
+	border: ridge;
+	border-color: black;
+	background-color: orange;
+	width: 100px;
+	height: 40px;
+}
+#date
+{
+	border:ridge;
+	border-color: black;
+}
